@@ -1,2 +1,2 @@
 # sample-project
- testing lang
+this is a sample project
